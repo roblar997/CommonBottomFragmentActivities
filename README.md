@@ -1,6 +1,6 @@
 # CommonBottomFragmentActivities
 
-Basic bottom fragment, that is reused for 4 different activies.
+Basic bottom fragment reused for 4 different activies, where activites are not fragments.
 
 This one use increased text size as selected-highligt.
 
